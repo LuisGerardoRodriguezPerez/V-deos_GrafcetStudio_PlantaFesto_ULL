@@ -13022,7 +13022,7 @@ plataforma</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>130.74000000000012</Width>
+        <Width>130.74</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -14271,7 +14271,7 @@ plataforma</Caption>
           <Bottom>0</Bottom>
         </Margin>
         <Height>64</Height>
-        <Width>144</Width>
+        <Width>130.74</Width>
         <TypeEnum>ActionActivation</TypeEnum>
         <ConditionStr>1</ConditionStr>
         <TransitionStr />
@@ -20988,7 +20988,7 @@ plataforma</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2023-07-20T16:36:10.3373064+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2023-07-23T12:07:05.1598648+01:00</DtGrafcetStructure>
     <DtInterpreterData>2023-07-06T16:39:44.533599+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
