@@ -5980,7 +5980,7 @@
         <T2IsOperand>false</T2IsOperand>
       </GrafcetItemProperties>
       <GrafcetItemProperties>
-        <NewPositionOrSizeAfterMouseButtonUp>true</NewPositionOrSizeAfterMouseButtonUp>
+        <NewPositionOrSizeAfterMouseButtonUp>false</NewPositionOrSizeAfterMouseButtonUp>
         <IsTempStepForSourceTransition>false</IsTempStepForSourceTransition>
         <CbCopyDateTime xsi:nil="true" />
         <IsHorizontalTransition>false</IsHorizontalTransition>
@@ -21079,7 +21079,7 @@ del cilindro de sujeción</Caption>
         <AoPins>2,3</AoPins>
       </PinConfig>
     </ArduinoDueSettings>
-    <DtGrafcetStructure>2023-07-20T19:27:27.9260245+01:00</DtGrafcetStructure>
+    <DtGrafcetStructure>2023-07-23T12:06:44.8929412+01:00</DtGrafcetStructure>
     <DtInterpreterData>2023-07-20T17:45:18.6565294+01:00</DtInterpreterData>
     <TimeStampGrafcetDataOnline xsi:nil="true" />
     <TimeStampInterpreterDataOnline xsi:nil="true" />
