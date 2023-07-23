@@ -1,5 +1,6 @@
 # V-deos_GrafcetStudio_PlantaFesto_ULL
-
-Como solución temporal, los vídeos del TFG de Grafcet-Studio se encuentran alojados en el siguiente enlace de Google Drive: 
-https://drive.google.com/drive/folders/1zw3zNy55R43EDVhx751Ofecf-hHRMH0A?usp=sharing
-Sin embargo, a partir del 21 de Julio de 2023 se indicarán en este fichero README los links de Youtube a todos los vídeos alojados en el Drive mencionado previamente.
+Los vídeos para el Diseño e Implementación de la Guía Gemma en la Planta Festo en Grafcet-Studio son los siguientes:
+Explorando Grafcet-Studio: Conexión al PLC y Mejores Prácticas para la Guía Gemma -> https://www.youtube.com/playlist?list=PLhc1s0T_hH-lBoH8v2Z0B5A7DQ13aqL3s
+Grafcet-Studio - Estación Cero de la Planta Festo -> https://www.youtube.com/playlist?list=PLhc1s0T_hH-noGUhZ9QuXYe97eqoniyY5
+Grafcet-Studio - Estación Uno de la Planta Festo -> https://www.youtube.com/playlist?list=PLhc1s0T_hH-nTWBDmqJ_vAv-VQ1PRD35q
+Grafcet-Studio - Estación Dos de la Planta Festo -> https://www.youtube.com/playlist?list=PLhc1s0T_hH-kkR1e_Mc0d4DLx95uAvDav
